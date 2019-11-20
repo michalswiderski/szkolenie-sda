@@ -1,2 +1,2 @@
 # szkolenie-sda
-Zadania zrobione na szkoleniu w SDA
+Znajdują się tutaj wszystkie zadania, które wykonuję w ramach 7 miesięcznego kursu z Pythona w SDA.
