@@ -420,10 +420,3 @@ if len(word_lst) == len(word_set):
     print("Słowo jest izogramem")
 else:
     print("Słowo nie jest izogramem")
-
-
-
-
-
-
-
