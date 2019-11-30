@@ -408,6 +408,18 @@ for i in range(0, n):
     mydict[i] = i ** 2
 print(f"Twój słownik: {mydict}")
 # --------------------------------------------------------------------
+Napisz program, który poprosi użytkownika o podanie słowa i napisze,
+czy jest ono izogramem (słowo, w którym żadna litera się nie powtórzyła,
+np. „skrzynia”)
+
+word = input("Podaj słowo: ")
+word_lst = list(word)
+word_set = set(word_lst)
+
+if len(word_lst) == len(word_set):
+    print("Słowo jest izogramem")
+else:
+    print("Słowo nie jest izogramem")
 
 
 
